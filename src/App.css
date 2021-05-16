@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.c-calculate__wrapper {
+  width: 800px;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+
+.c-calculate__wrapper input {
+  width: 200px;
+}
